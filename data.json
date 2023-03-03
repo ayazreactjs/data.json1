@@ -2,13 +2,13 @@
   {
     "id": 1,
     "cathegory": "'breakfast'",
-    "img": "/img/1.jpg",
+    "img": "./img/1.jpg",
     "name": "'item1'",
     "para": "' Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore eiusudiandae obcaecati pariatur illum in dolorem voluptatum asperiores qui non ut, illo reprehenderit ex inventore accusantium fuga dicta culpa deleniti ullam tempora eveniet repellendus perferendis sapiente saepe! Omnis minus, quo illo provident hic autem quisquam culpa fuga  quidem eum. ',"
   },
   {
     "id": 2,
-    "img": "/img/2.jpg",
+    "img": "./img/2.jpg",
 
     "cathegory": "'breakfast'",
     "name": "'item2'",
@@ -16,7 +16,7 @@
   },
   {
     "id": 3,
-    "img": "/img/3.jpg",
+    "img": "./img/3.jpg",
 
     "cathegory": "'lunch'",
     "name": "'item3'",
@@ -24,7 +24,7 @@
   },
   {
     "id": 4,
-    "img": "/img/4.jpg",
+    "img": "./img/4.jpg",
 
     "cathegory": "lunch",
     "name": "item4",
